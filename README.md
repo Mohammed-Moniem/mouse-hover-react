@@ -6,8 +6,9 @@ I'm making a the same projects using React with some small additions in some of 
 
 # Demo
 
-[Live demo here](http://hover.moniemo.com)
-![mouse hover effect](./public/images/demo.png)
+## [Live demo here](http://hover.moniemo.com)
+
+## ![mouse hover effect](./public/images/demo.png)
 
 ## Available Scripts
 
