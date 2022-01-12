@@ -4,6 +4,11 @@ I was inspired by the [50 Day 50 Projects](https://github.com/bradtraversy/50pro
 vanilla JS along with HTML, and CSS.
 I'm making a the same projects using React with some small additions in some of these awesome projects.
 
+# Demo
+
+[Live demo here](http://hover.moniemo.com)
+![mouse hover effect](./public/images/demo.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
